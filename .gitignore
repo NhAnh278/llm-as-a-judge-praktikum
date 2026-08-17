@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data from other projects (e.g. wmt-mist 25) — not part of this repo
+data/
